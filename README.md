@@ -4,4 +4,4 @@
 <h2>Linguagem</h2>
 O app foi desenvolvido em Kotlin, no Android Studios
 <h2>Criadores</h2>
-Feito por <a href="https://github.com/Caioaraujo48">Caio</a>
+Feito por <a href="https://github.com/Caioaraujo48" title="Ir para o Perfil">Caio</a>
